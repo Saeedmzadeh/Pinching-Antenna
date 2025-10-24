@@ -1,2 +1,6 @@
 # Pinching-Antenna
-Pinching Antenna based on NOMA
+This code package is related to the following article: 
+Mohammadzadeh, S., Cumanan, K., Li, C., & Ding, Z. (2025). [Efficient Downlink Power Allocation for NOMA-Based Pinching-Antenna Systems](https://ieeexplore.ieee.org/abstract/document/11186151). IEEE Wireless Communications Letters.
+
+# Abstract:
+Pinching-antenna (PA) systems have gained attention for efficiently reconfiguring wireless channels in a low-cost manner. In this architecture, multiple antennas share a common waveguide and must be fed with the same signal, which motivates the application of non-orthogonal multiple access (NOMA). In this letter, we present a power allocation framework aimed at minimizing the total transmit power in a downlink NOMA system equipped with multiple PAs. We formulate an optimization problem that minimizes the total transmit power subject to the user’s individual service constraints. Our approach employs superposition coding at the base station (BS) and successive interference cancellation (SIC) at users to efficiently decode their signals. This strategy allows multiple users to be served simultaneously, enhancing spectral efficiency. Simulations demonstrate that power allocation notably enhances system throughput and user fairness over conventional methods.
