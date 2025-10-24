@@ -1,4 +1,4 @@
-# Pinching-Antenna
+# Pinching Antenna
 This code package is related to the following article: 
 Mohammadzadeh, S., Cumanan, K., Li, C., & Ding, Z. (2025). [Efficient Downlink Power Allocation for NOMA-Based Pinching-Antenna Systems](https://ieeexplore.ieee.org/abstract/document/11186151). IEEE Wireless Communications Letters.
 
